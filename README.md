@@ -1,6 +1,7 @@
 # AI Study Assistant
 
 A local-first, privacy-conscious learning application that allows users to master complex topics through iterative testing. It leverages Generative AI (Gemini) to create increasingly difficult challenges based on existing performance.
+Read goal.md file for more context
 
 ## 🚀 Quick Start
 
