@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# OS files
+.DS_Store
+
+# Build artifacts
+dist/
+backend/dist/
+frontend/dist/
+
+# Local data (User content)
+data/
+
+# Environment secrets
+.env
+.env.local
